@@ -172,7 +172,7 @@ fn output_exec(
                     .map(|type_| match type_.as_str() {
                         // Only include types known to not contain sensitive matierial
                         "String" => true,
-                        "Number" => true,
+                        "StringList" => true,
                         _ => false,
                     })
                     .unwrap_or_default()
