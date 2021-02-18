@@ -1,6 +1,6 @@
 # Cloudwrap
 
-<a href="https://travis-ci.org/Blackfynn/cloudwrap" title="Travis Build Status"><img src="https://travis-ci.org/Blackfynn/cloudwrap.svg?branch=master" alt="travis-badge"></img></a>
+[![Test and Release](https://github.com/Blackfynn/cloudwrap/actions/workflows/workflow.yml/badge.svg?branch=master)](https://github.com/Blackfynn/cloudwrap/actions/workflows/workflow.yml)
 
 NOTE: The AWS Secrets Manager interface is currently disabled.
 
